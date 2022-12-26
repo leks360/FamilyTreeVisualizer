@@ -1,4 +1,4 @@
-# https://familytreelekden.netlify.app/.
+# Family_Tree_Assignment_Front_End.
 A Family Tree Visualizer 
 Mainly Focued on the funtionality part
 
