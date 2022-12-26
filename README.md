@@ -1,6 +1,8 @@
 A Family Tree Visualizer 
 Mainly Focued on the funtionality part
 
+ Live Link  : https://familytreelekden.netlify.app/
+ 
 -Supports Adding person 
 
 -Supports Importing Json file
