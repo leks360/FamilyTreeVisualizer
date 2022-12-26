@@ -10,3 +10,8 @@ Mainly Focued on the funtionality part
 -Supports Exporting as PDF
 
 -Supports searching person.
+
+-ReactJs for developemnt
+- Material UI
+-Redux Tool kit for state management
+
