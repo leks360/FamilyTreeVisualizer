@@ -11,7 +11,7 @@ Mainly Focued on the funtionality part
 
 -Supports searching person.
 
--ReactJs for developemnt.
+- ReactJs for developemnt.
 - Material UI.
--Redux Tool kit for state management.
+- Redux Tool kit for state management.
 
