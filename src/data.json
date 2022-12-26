@@ -1,0 +1,40 @@
+{
+    "id":0,
+    
+    "name":"Ranjit",
+    "location":"Delhi",
+    "birth_year":"1976",
+    "spouse":"milky",
+    "present_address":"Road 87,woodshine 23",
+    "children":[
+        {
+            "name":"Sam",
+            "id":1,
+            "location":"Pune",
+            "birth_year":"1998",
+            "spouse":"Sunny",
+            "present_address":"road 27,callywood 21",
+            "children":[]
+            
+        },
+        {
+            "id":3,
+            "location":"Mumbai",
+            "name":"Akshay",
+            "birth_year":"2004",
+            "spouse":"john",
+            "present_address":"Road 87, patelnagar",
+            "children":[
+                {
+                    "id":4,
+                    "location":"Europe",
+                    "name":"Seeta",
+                    "birth_year":"2010",
+                    "spouse":"na",
+                    "present_address":"Road 59 sunville",
+                    "children":[]
+                }
+            ]
+        }
+    ]
+}

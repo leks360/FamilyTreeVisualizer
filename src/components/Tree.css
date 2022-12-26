@@ -1,0 +1,24 @@
+.TreeCon{
+    background-color: rgb(235, 240, 255);
+    height: 100vh;
+    padding:20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.ButtonContainer{
+    margin-top: 10px;
+    display: flex;
+    gap:20px;
+    flex-wrap: wrap;
+    
+}
+.ButtonStyle{
+    width: 150px;
+    height: 55px;
+}
+.redLabel{
+    color:rgb(255, 70, 193);
+}
+.normalLabel{
+    color:rgb(0, 0, 0);
+}

@@ -1,0 +1,8 @@
+.searchBar{
+    background-color: white;
+    width: 80%;
+    justify-content: center;
+    align-self: center;
+    height: 10%;
+    border-radius: 4%;
+}
